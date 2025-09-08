@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(169, 69, 69);
+}
+body b{
+    color: yellow;
+    text-align: center;
+}
+body h1 {
+    text-align: center ;
+}
+h2{
+    display: flex;
+  justify-content: space-around;
+}
+.rasm1{
+    background-color: black;
+    color: white;
+    width:400px ;
+    height: 500px;    
+}
+.rasm1 img{
+    width: 400px;
+    height: 300px;
+}
+.rasm2{
+     background-color: black;
+    color: white;
+    width:500px ;
+    height: 500px;    
+}
+.rasm2 img{
+    width: 500px;
+    height: 300px; 
+}
+.rasm3{
+     background-color: black;
+    color: white;
+    width:500px ;
+    height: 500px;    
+}
+.rasm3 img{
+    width: 500px;
+    height: 300px; 
+}
+.rasm4{
+     background-color: black;
+    color: white;
+    width:500px ;
+    height: 500px;    
+}
+.rasm4 img{
+    width: 500px;
+    height: 300px; 
+}
+.rasm5{
+     background-color: black;
+    color: white;
+    width:500px ;
+    height: 400px;    
+}
+.rasm5 img{
+    width: 500px;
+    height: 200px; 
+}
+.rasm6{
+     background-color: black;
+    color: white;
+    width:500px ;
+    height: 350px;    
+}
+.rasm6 img{
+    width: 500px;
+    height: 200px; 
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+main{
+    flex-wrap: wrap;
+    gap: 50px;
+}
